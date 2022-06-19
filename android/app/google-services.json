@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160214587539",
+    "project_id": "liquid-store-c6069",
+    "storage_bucket": "liquid-store-c6069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160214587539:android:871a6f679500dc14e75566",
+        "android_client_info": {
+          "package_name": "com.example.penjualan_liquid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160214587539-oatsc83vrker6f5q0378vks55f4b5go0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4tJO18b6xoQBN9RAF1EpANI2JdwGQIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160214587539-oatsc83vrker6f5q0378vks55f4b5go0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
